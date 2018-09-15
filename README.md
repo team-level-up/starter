@@ -6,4 +6,4 @@ ____________________________________________________
 ==================Names of team members================
 
 1. Shadrack Ankomahene
-2. Daniel peprah
+2. Daniel Peprah
